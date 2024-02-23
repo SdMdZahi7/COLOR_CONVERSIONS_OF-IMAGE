@@ -46,12 +46,24 @@ Split and merge HSV Image
     import cv2
     image=cv2.imread('car.jpeg',1)
     image=cv2.resize(image,(400,300))
-    cv2.imshow('ZAHI',image)
+    cv2.imshow('Adithya',image)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 ``` 
   </td>
   <td>
+
+### OUTPUT:
+
+![image](https://github.com/SdMdZahi7/COLOR_CONVERSIONS_OF-IMAGE/assets/94187572/04acbf44-3e8a-4a19-9c76-9de0cb5f8c18)
+
+
+  </td>
+  </tr>
+
+   <tr>
+    <td width=50%>
+
 
 ### ii)Write the image
 
