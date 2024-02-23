@@ -57,8 +57,7 @@ Split and merge HSV Image
 
 ![image](https://github.com/SdMdZahi7/COLOR_CONVERSIONS_OF-IMAGE/assets/94187572/04acbf44-3e8a-4a19-9c76-9de0cb5f8c18)
 
-
-  </td>
+</td>
   </tr>
 
    <tr>
