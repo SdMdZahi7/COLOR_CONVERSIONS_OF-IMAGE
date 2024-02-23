@@ -36,15 +36,19 @@ Split and Merge RGB Image
 Split and merge HSV Image
 
 ##### Program:
-### Developed By:
-### Register Number: 
+### Developed By: SYED MUHAMMED ZAHI  
+### Register Number: 212221230114
 
-
-## Output:
 
 ### i) Read and display the image
 
 <br>
+    import cv2
+    image=cv2.imread('car.jpeg',1)
+    image=cv2.resize(image,(400,300))
+    cv2.imshow('Adithya',image)
+    cv2.waitKey(0)
+    cv2.destroyAllWindows()
 <br>
 
 ### ii)Write the image
