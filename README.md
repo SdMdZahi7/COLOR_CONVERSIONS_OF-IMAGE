@@ -172,7 +172,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-HJM![image](https://github.com/SdMdZahi7/COLOR_CONVERSIONS_OF-IMAGE/assets/94187572/c76bd4a6-6cdb-4c5e-9151-211524c0eb35)
+![image](https://github.com/SdMdZahi7/COLOR_CONVERSIONS_OF-IMAGE/assets/94187572/558624dc-209f-41e8-9d70-d440776faa81)
 ![image](https://github.com/SdMdZahi7/COLOR_CONVERSIONS_OF-IMAGE/assets/94187572/ba1d2df5-8fbe-4dfa-b0fd-967145aaf478)
 
 
